@@ -1,0 +1,3 @@
+id,name,sector,capitalUSDm,location,priority,bankability,bottlenecks,conversionProbability,financingModel,sponsorHint,nextAction
+1,Ondo Modular Refinery,"Oil, Gas & Power",15000,"Ilaje, Ondo State",1,High,Land & environmental permits | Offtake & crude supply agreements | Large-scale project finance,0.42,Project finance / PPP,Private + MOFI-linked,Request full investor summary + IRR/DSCR pack
+2,Ace 3 MTPA Floating LNG,"Oil, Gas & Power",5500,"Escravos, Delta State",1,High,Gas feedstock security | Marine & regulatory approvals | LNG offtake contracts,0.48,Project finance,Private developer,Engage sponsor on gas supply & offtake status
